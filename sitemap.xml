@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jianlon.github.io/categories/</loc>
+    <loc>https://jianlon.github.io/</loc>
+    <lastmod>2020-05-03T20:19:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jianlon.github.io/</loc>
+    <loc>https://jianlon.github.io/post/my-test/</loc>
+    <lastmod>2020-05-03T20:19:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jianlon.github.io/post/</loc>
+    <lastmod>2020-05-03T20:19:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jianlon.github.io/categories/</loc>
   </url>
   
   <url>
